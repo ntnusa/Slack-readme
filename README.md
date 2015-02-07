@@ -4,8 +4,9 @@
 因為 slack 是英文版的，所以有些人可能會有障礙
 為了避免這樣的情況發生，遂建立了這樣一個中文使用手冊
 
-註冊方式：
-1.進入 https://ntnusa.slack.com/messages 連結並點擊"create an account"
-2.輸入自己的學號
-3.進入自己的學校信箱
-4.點選“詳列附件”，接下來confirm就可以了
+## 註冊方式：
+
+1. 進入 https://ntnusa.slack.com/messages 連結並點擊"create an account"
+2. 輸入自己的學號
+3. 進入自己的學校信箱
+4. 點選“詳列附件”，接下來confirm就可以了
