@@ -7,6 +7,8 @@
 ## 註冊方式：
 
 1. 進入 https://ntnusa.slack.com/messages 連結並點擊"create an account"
+  + ![第一個畫面](/first.png)
 2. 輸入自己的學號
+  + ![第二個畫面](/signup.png)
 3. 進入自己的學校信箱
 4. 點選“詳列附件”，接下來confirm就可以了
